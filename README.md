@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Research Group on Language and Translation Technology
 
-You can use the [editor on GitHub](https://github.com/language-tech-dlc/language-tech-dlc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are developing tools for professional language services across domains and explore research questions related to language and translation technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**********
 
-### Markdown
+## People
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Cheong
+- Oscar
+- Ronald
+- Jeffrey
+- Jessica
+- Kevin
+- Matthew
+- Raymond
 
-```markdown
-Syntax highlighted code block
+**********
 
-# Header 1
-## Header 2
-### Header 3
+### Projects
 
-- Bulleted
-- List
+1. Machine Translation of IPO Documents (School of Translation) [Link](https://language-tech-dlc.github.io/iponmt/)
+2. Platform for Human Evaluation of Machine Translation
 
-1. Numbered
-2. List
+**********
 
-**Bold** and _Italic_ and `Code` text
+### Reading and Research Group
 
-[Link](url) and ![Image](src)
-```
+We meet regularly to exchange ideas, discuss research, or review work in the field.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Next Meeting
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/language-tech-dlc/language-tech-dlc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Previous Meetings
+### 11 December 2018
+Matthew: PDF Extraction
+Kevin: MT Evaluation Platform
+### 20 November 2018
+_MT Research_
+Jessica: Human Evaluation of Machine Translation
+Jeffrey: Japanese-Chinese Translation
+_Technical Sharing_
+Matthew: Web Crawling
+Kevin: MT Evaluation Platform
+Oscar: UI Design (Simultaneous highlighting of SL and TL sentence pairs)
