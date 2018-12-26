@@ -27,6 +27,7 @@ We meet regularly to exchange ideas, discuss research, or review work in the fie
 
 ### Next Meeting
 ### Previous Meetings
+
 | Date | Topic(s) |
 |---|---|
 | 11 December 2018 | Matthew: PDF Extraction; Kevin: MT Evaluation Platform |
