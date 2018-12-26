@@ -25,8 +25,13 @@ We meet regularly to exchange ideas, discuss research, or review work in the fie
 ### Next Meeting
 
 ### Previous Meetings
+| Date             | Topics                                                                                                                                                                                                                                               |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11 December 2018 | Matthew: PDF Extraction; Kevin: MT Evaluation Platform                                                                                                                                                                                               |
+| 20 November 2018 | MT Research Jessica: Human Evaluation of Machine Translation; Jeffrey: Japanese-Chinese Translation Technical Sharing Matthew: Web Crawling; Kevin: MT Evaluation Platform; Oscar: UI Design (Simultaneous highlighting of SL and TL sentence pairs) |
+
 | Date | Topic(s) |
-| --- | ---|
+|---|---|
 | 11 December 2018 | Matthew: PDF Extraction; Kevin: MT Evaluation Platform |
 | 20 November 2018 | _MT Research_  Jessica: Human Evaluation of Machine Translation; Jeffrey: Japanese-Chinese Translation  _Technical Sharing_  Matthew: Web Crawling; Kevin: MT Evaluation Platform; Oscar: UI Design (Simultaneous highlighting of SL and TL sentence pairs)|
 
